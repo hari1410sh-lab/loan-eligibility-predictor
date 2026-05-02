@@ -36,9 +36,3 @@ Tech Stack
 - Vite
 - HTML5 & CSS3
 - Git & GitHub Pages
-
-Run Locally
-git clone https://github.com/hari1410sh-lab/loan-eligibility-predictor.git
-cd loan-eligibility-predictor
-npm install
-npm run dev
