@@ -1,17 +1,16 @@
 Loan Eligibility Predictor
-
-> AI-powered web app that predicts loan eligibility in real-time
+> Rule-based web app that predicts loan eligibility in real-time
 
 Live Demo
 https://hari1410sh-lab.github.io/loan-eligibility-predictor/
 
 About
 A premium fintech web application that uses a 
-rule-based AI scoring engine to predict whether 
+rule-based scoring engine to predict whether 
 a person is eligible for a bank loan, along with 
 confidence percentage and EMI calculation.
 
-How AI Works
+How the Scoring Engine Works
 The scoring engine evaluates 5 weighted parameters:
 - Credit Score → 35% weight
 - Income vs Loan Ratio → 25% weight
@@ -23,7 +22,7 @@ Score above 60% = ELIGIBLE
 Score below 60% = NOT ELIGIBLE 
 
 Features
-- Real-time AI loan eligibility prediction
+- Real-time rule-based loan eligibility prediction
 - Animated confidence percentage gauge
 - EMI calculator at 8.5% interest rate
 - Rejection reasons with improvement tips
@@ -36,3 +35,4 @@ Tech Stack
 - Vite
 - HTML5 & CSS3
 - Git & GitHub Pages
+
