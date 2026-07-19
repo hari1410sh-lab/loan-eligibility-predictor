@@ -262,13 +262,7 @@ export default function App() {
 
         {/* Header */}
         <div style={{ textAlign: 'center', marginBottom: 40 }}>
-          <div style={{
-            display: 'inline-block',
-            background: 'rgba(230,57,70,.14)', border: '1px solid rgba(230,57,70,.38)',
-            borderRadius: 20, padding: '4px 14px',
-            fontSize: 11, fontWeight: 700, color: '#e63946',
-            letterSpacing: '0.12em', marginBottom: 20,
-          }}>AI POWERED</div>
+
           <h1 style={{ fontSize: 'clamp(28px,5vw,44px)', fontWeight: 800, letterSpacing: '-0.02em', lineHeight: 1.1, marginBottom: 12 }}>
             Loan Eligibility<br />
             <span style={{ color: '#e63946' }}>Predictor</span>
